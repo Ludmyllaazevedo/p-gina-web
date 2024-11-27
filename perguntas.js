@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'geografia',
+    'Que país tem o formato de uma bota?',
+     'O país que tem o formato de uma bota é Itália', 
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'geografia',
+    ' Qual o maior planeta do sistema solar?',
+    'O maior planeta do sistema solar é o Júpiter.'
 )
