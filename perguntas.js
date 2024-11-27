@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'o que é',
+    'Qual é o maior mamífero terrestre? ',
+    'O maior mamífero terrestre Elefante Africano'
 )
 
 criaCartao(
